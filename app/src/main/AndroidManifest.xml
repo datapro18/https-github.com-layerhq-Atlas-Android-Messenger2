@@ -3,9 +3,6 @@
     package="com.layer.messenger"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- QR Code, CameraSender -->
-    <uses-permission android:name="android.permission.CAMERA"/>
-
     <!-- GallerySender -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
